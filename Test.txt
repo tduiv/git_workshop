@@ -3,3 +3,4 @@ Test
 editing as part of the workshop
 
 In the Branch Potato, I am now editing Test.txt
+Now in the branch Tomato, I am editing
